@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/omarsaaoui/Documents/bdeb/session_hiver2023/A57_ecosysteme_ia/examen_final/mlruns/0/8d7ef8dcb56d48ee85c95a6952e6a9aa/artifacts
+end_time: 1685329634659
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d7ef8dcb56d48ee85c95a6952e6a9aa
+run_name: thundering-calf-767
+run_uuid: 8d7ef8dcb56d48ee85c95a6952e6a9aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685329634648
+status: 4
+tags: []
+user_id: omarsaaoui

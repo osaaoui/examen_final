@@ -1,0 +1,2 @@
+inputs,outputs,prompts
+"{'Taille(cm)': [183], 'Poids(kg)': [59], 'Pointure(cm)': [20]}",<Instructions for cluster creation with UC enabled>,Get Databricks documentation to answer all the questions: {input}
